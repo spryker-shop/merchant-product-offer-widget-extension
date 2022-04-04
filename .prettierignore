@@ -1,4 +1,0 @@
-**/package-lock.json
-**/dist/**
-vendor/**
-!vendor/spryker/spryker-shop/**

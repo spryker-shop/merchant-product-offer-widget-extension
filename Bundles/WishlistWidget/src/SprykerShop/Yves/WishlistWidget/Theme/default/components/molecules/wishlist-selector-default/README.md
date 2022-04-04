@@ -1,1 +1,0 @@
-#wishlist-selector-default (molecule)

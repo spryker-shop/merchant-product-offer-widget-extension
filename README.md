@@ -1,8 +1,15 @@
-# Spryker Commerce OS
-
-## Shop Modules
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-shop-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-shop-core/?branch=master)
+# MerchantProductOfferWidgetExtension Module
+[![Latest Stable Version](https://poser.pugx.org/spryker-shop/merchant-product-offer-widget-extension/v/stable.svg)](https://packagist.org/packages/spryker-shop/merchant-product-offer-widget-extension)
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-8892BF.svg)](https://php.net/)
 
-### Links
-- **[Spryker Documentation](https://docs.spryker.com/)**
+The module provides plugin interfaces for extending MerchantProductOfferWidget module functionality.
+
+## Installation
+
+```
+composer require spryker-shop/merchant-product-offer-widget-extension
+```
+
+## Documentation
+
+[Spryker Documentation](https://docs.spryker.com)

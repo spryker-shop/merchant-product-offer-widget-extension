@@ -1,5 +1,0 @@
-parameters:
-    level: 7
-    checkMissingIterableValueType: false
-    ignoreErrors:
-        - '#Parameter \#1 \$\w+ of function count expects array\|Countable, iterable<.+ItemTransfer> given.#'

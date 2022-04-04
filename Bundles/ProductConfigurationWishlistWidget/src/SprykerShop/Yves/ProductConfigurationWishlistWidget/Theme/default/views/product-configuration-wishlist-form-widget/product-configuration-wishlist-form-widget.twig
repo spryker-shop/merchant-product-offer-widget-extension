@@ -1,9 +1,0 @@
-{% extends template('widget') %}
-
-{% define data = {
-    hasProductConfigurationAttached: _widget.hasProductConfigurationAttached,
-} %}
-
-{% block body %}
-    <input type="hidden" name="has_product_configuration_attached" value="{{ data.hasProductConfigurationAttached }}"/>
-{% endblock %}
