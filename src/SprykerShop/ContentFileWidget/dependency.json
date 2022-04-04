@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker-shop/file-manager-widget": "FileManagerWidget provides molecule for download files.",
-        "spryker/transfer": "Provides transfer objects definition with `::get*OrFail()` functionality."
-    }
-}

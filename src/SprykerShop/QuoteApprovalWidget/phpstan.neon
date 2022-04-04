@@ -1,5 +1,0 @@
-parameters:
-    level: 7
-    bootstrapFiles:
-        - '%rootDir%/../../../phpstan-bootstrap.php'
-    checkMissingIterableValueType: false

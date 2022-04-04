@@ -1,9 +1,0 @@
-{% extends template('widget') %}
-
-{% define data = {
-    product: _widget.product,
-} %}
-
-{% block body %}
-    <input type="hidden" name="productOfferReference" value="{{ data.product.productOfferReference }}">
-{% endblock %}
